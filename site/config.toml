@@ -2,10 +2,10 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
+themes = "hugo-theme-m10c-master"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-themes = "hugo-theme-m10c-master"
